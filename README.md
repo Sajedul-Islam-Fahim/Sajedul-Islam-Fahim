@@ -1,4 +1,4 @@
-![logo](https://github.com/Sajedul-Islam-Fahim/Sajedul-Islam-Fahim/blob/main/1500x500.jpeg)
+
 <h1 align="center">Hey There 👋, I'm Md.Sajedul Islam Fahim</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
