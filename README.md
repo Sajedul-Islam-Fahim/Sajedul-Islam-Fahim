@@ -96,22 +96,6 @@ class SajedulIslamFahim extends SoftwareEngineer
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sajedul-islam-fahim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=f0ede8" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajedul-islam-fahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a84c&text_color=f0ede8" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajedul-islam-fahim&theme=tokyonight&hide_border=true&background=0d1117&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c" />
-
-</div>
-
----
 
 ## 💼 Work Experience
 
